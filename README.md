@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dmitry. I'm 19 years old and I'm just GOing.
+My name is Dmitry and I'm just GOing.
 
 #### Languages and tools 
 
