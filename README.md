@@ -14,6 +14,6 @@ My name is Dmitry and I'm just GOing.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
-#### My Leetcode stats and [profile](https://leetcode.com/u/solumD/)
+#### My Leetcode [profile](https://leetcode.com/u/solumD/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/solumD?theme=light&font=Amiko&ext=heatmap)
+
